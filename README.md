@@ -3,4 +3,4 @@ Calculators coded in different languages.
 
 Python:
 
-[![](media/Calculator.webm "Calculator")](calculator.py)
+[![](media/calculator.gif "Calculator")](calculator.py)
